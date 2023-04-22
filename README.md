@@ -62,8 +62,7 @@ Para observar el resultado de este flow, sólo es necesario abrir el navegador y
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![](https://github.com/Cecilia-X-M/flow5-NodeRed/blob/main/flow5API.png)
-![](https://github.com/Cecilia-X-M/flow5-NodeRed/blob/main/flow5APIR.png)
+![](https://github.com/LauraGx/Flow5-NodeRed/blob/main/flow5.png)
 
 # Créditos
 
